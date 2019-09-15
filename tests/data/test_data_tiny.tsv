@@ -1,0 +1,4 @@
+alarm/set_alarm		reactivate weekly alarm	
+alarm/set_alarm		Set alarm to ring only on the weekdays	
+alarm/time_left_on_alarm		When will alarm go off	
+reminder/set_reminder		remind me tomorrow to call the groomer	

@@ -1,0 +1,10 @@
+alarm/modify_alarm		change my alarm tomorrow to wake me up 30 minutes earlier	
+alarm/set_alarm		Turn on all my alarms	
+alarm/set_alarm		sound alarm every 8 minutes	
+alarm/set_alarm		repeat yesterdays alarm	
+alarm/snooze_alarm		continue my alarm	
+alarm/time_left_on_alarm		Do I have anymore time on the alarm	
+reminder/set_reminder		remind me Monday night that get doe with work 12 Tuesday	
+reminder/show_reminders		display Tuesday's reminders	
+weather/find		what is the weather tomorrow	
+weather/find		When will it snow	
